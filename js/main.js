@@ -139,7 +139,7 @@
             3: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid. The domain portion of the email address is invalid (the portion after the @: )',
             4: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid. The username portion of the email address is invalid (the portion before the @: )',
             5: '<i class="fas fa-exclamation-triangle"></i> E-mail address is not valid. This email address looks fake or invalid, please enter a real email address'
-        }
+        };
     };
 
 
